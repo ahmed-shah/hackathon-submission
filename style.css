@@ -1,0 +1,143 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+    box-sizing: border-box;
+}
+.cs-logo{
+    height: 1.7rem;
+    width: auto;
+    margin-top: .4rem;
+}
+.nav-item li{
+    display: inline-block;
+}
+.nav-item li a{
+    color: black;
+    padding: .8rem 2.1rem;
+    display: block;
+    text-decoration: none;
+    border-radius: 10rem;
+    font-size: .5;
+}
+.nav-item li a:hover{
+    background-color:#95a5a6;
+}
+.cs-btn button{
+    margin-top: .7rem;
+    color: white;
+    background: rgba(76, 175, 79, 1);
+}
+.banner{
+    padding: 4.5rem 0rem;
+}
+.banner-content{
+    margin: .8rem;
+}
+.banner-content h1{
+    font-size: 4rem;
+}
+.banner-content h2{
+    font-size: 4rem;
+    color: rgba(76, 175, 79, 1);
+}
+.banner-content p{
+    font-size: 1rem;
+}
+.banner-img img{
+    height: 23.3rem;
+    width: auto;
+    margin-top: .8rem;
+    display: inline;
+}
+.banner-btn button{
+    margin: .5rem;
+    background-color: rgba(76, 175, 79, 1);
+}
+.cs-card {
+    border-radius: .5rem;
+    padding: .5rem .5rem;
+    margin: 1rem 1rem;
+    text-align: center;
+}
+.cs-main-content h2{
+    padding-bottom: 1rem;
+}
+#ahmi{
+    padding: .8rem 0rem;
+}
+.cs-icon img{
+    width: 3rem;
+    padding: 1rem 0rem;
+}
+.content{
+    display: flex;
+    justify-content: center;
+}
+.cs-white h2{
+padding: 3rem 0rem;
+}
+#card-1{
+    font-size: 1rem;
+    padding: 1rem;
+    box-sizing: border-box;
+    width: 300px;
+    height: 300px;
+}
+#card-2{
+    font-size: 1rem;
+    padding: 1rem;
+    box-sizing: border-box;
+    width: 300px;
+    height: 300px;
+}
+#card-3{
+    font-size: 1rem;
+    padding: 1rem;
+    box-sizing: border-box;
+    width: 300px;
+    height: 300px;
+}
+.cs-card h3{
+    padding: 1rem 0rem;
+    font-size: 1.5rem;
+}
+.cs-footer{
+    background: rgba(38, 50, 56, 1);
+
+}
+.cs-footer-content img{
+    height: 2.5rem;
+    width: auto;
+    margin: 1.5rem 1rem;
+    color: white;
+}
+.cs-footer-content p{
+    margin: 1rem 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    color: white;
+}
+.cs-footer-line h3{
+    color: white;
+}
+.cs-footer-line{
+    margin: 1rem 1rem;
+}
+.cs-footer-item li{
+    padding: .6rem 0rem;
+    list-style: none;
+}
+.cs-footer-item li a{
+    text-decoration: none;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cs-footer-input h3{
+    color: white;
+    padding: 1rem;
+}
+.cs-footer-input input{
+    margin: 1rem 1rem;
+    padding: .6rem .6rem;
+    width: 90%;
+}
